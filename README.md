@@ -11,4 +11,4 @@ Keras >=2.1.3
 
 Tensorlfow >=1.8.0
 
-Python modules: numpy, opencv-python, tqdm (# use pip3)
+Python modules: numpy, opencv-python, tqdm ( use pip3)
